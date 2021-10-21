@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace ObjOritetat
+namespace ObjOrienterat
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello world");
         }
     }
 }
