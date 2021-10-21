@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\ObjOrienterat\\ObjOritetat.csproj": {}
+    "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\c#OBJOriUppgift\\c#OBJOriUppgift.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\ObjOrienterat\\ObjOritetat.csproj": {
+    "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\c#OBJOriUppgift\\c#OBJOriUppgift.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\ObjOrienterat\\ObjOritetat.csproj",
-        "projectName": "ObjOritetat",
-        "projectPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\ObjOrienterat\\ObjOritetat.csproj",
+        "projectUniqueName": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\c#OBJOriUppgift\\c#OBJOriUppgift.csproj",
+        "projectName": "c#OBJOriUppgift",
+        "projectPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\c#OBJOriUppgift\\c#OBJOriUppgift.csproj",
         "packagesPath": "C:\\Users\\lukas.ruokolahti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\ObjOrienterat\\obj\\",
+        "outputPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\c#OBJOriUppgift\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas.ruokolahti\\AppData\\Roaming\\NuGet\\NuGet.Config",
