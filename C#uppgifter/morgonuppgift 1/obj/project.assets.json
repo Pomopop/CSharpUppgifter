@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\c#OBJOriUppgift\\c#OBJOriUppgift.csproj",
-      "projectName": "c#OBJOriUppgift",
-      "projectPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\c#OBJOriUppgift\\c#OBJOriUppgift.csproj",
+      "projectUniqueName": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\app\\app.csproj",
+      "projectName": "app",
+      "projectPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\app\\app.csproj",
       "packagesPath": "C:\\Users\\lukas.ruokolahti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\c#OBJOriUppgift\\obj\\",
+      "outputPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lukas.ruokolahti\\AppData\\Roaming\\NuGet\\NuGet.Config",

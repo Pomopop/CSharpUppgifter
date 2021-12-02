@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace c_OBJOriUppgift
+namespace app
 {
     class Program
     {
