@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "morgonuppgift5/1.0.0": {
+        "runtime": {
+          "morgonuppgift5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "morgonuppgift5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

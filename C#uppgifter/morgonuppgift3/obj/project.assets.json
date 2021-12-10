@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\Morgonuppgift2\\app.csproj",
-      "projectName": "app",
-      "projectPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\Morgonuppgift2\\app.csproj",
+      "projectUniqueName": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\morgonuppgift3\\morgonuppgift3.csproj",
+      "projectName": "morgonuppgift3",
+      "projectPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\morgonuppgift3\\morgonuppgift3.csproj",
       "packagesPath": "C:\\Users\\lukas.ruokolahti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\Morgonuppgift2\\obj\\",
+      "outputPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\morgonuppgift3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lukas.ruokolahti\\AppData\\Roaming\\NuGet\\NuGet.Config",

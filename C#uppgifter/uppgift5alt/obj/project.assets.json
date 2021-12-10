@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\Morgonuppgift2\\app.csproj",
-      "projectName": "app",
-      "projectPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\Morgonuppgift2\\app.csproj",
+      "projectUniqueName": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\uppgift5alt\\uppgift5alt.csproj",
+      "projectName": "uppgift5alt",
+      "projectPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\uppgift5alt\\uppgift5alt.csproj",
       "packagesPath": "C:\\Users\\lukas.ruokolahti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\Morgonuppgift2\\obj\\",
+      "outputPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\C#uppgifter\\uppgift5alt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lukas.ruokolahti\\AppData\\Roaming\\NuGet\\NuGet.Config",

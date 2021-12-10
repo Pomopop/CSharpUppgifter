@@ -1,0 +1,16 @@
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\bin\Debug\net5.0\uppgift5alt.exe
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\bin\Debug\net5.0\uppgift5alt.deps.json
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\bin\Debug\net5.0\uppgift5alt.runtimeconfig.json
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\bin\Debug\net5.0\uppgift5alt.runtimeconfig.dev.json
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\bin\Debug\net5.0\uppgift5alt.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\bin\Debug\net5.0\ref\uppgift5alt.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\bin\Debug\net5.0\uppgift5alt.pdb
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\obj\Debug\net5.0\uppgift5alt.csproj.AssemblyReference.cache
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\obj\Debug\net5.0\uppgift5alt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\obj\Debug\net5.0\uppgift5alt.AssemblyInfoInputs.cache
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\obj\Debug\net5.0\uppgift5alt.AssemblyInfo.cs
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\obj\Debug\net5.0\uppgift5alt.csproj.CoreCompileInputs.cache
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\obj\Debug\net5.0\uppgift5alt.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\obj\Debug\net5.0\ref\uppgift5alt.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\obj\Debug\net5.0\uppgift5alt.pdb
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\uppgift5alt\obj\Debug\net5.0\uppgift5alt.genruntimeconfig.cache

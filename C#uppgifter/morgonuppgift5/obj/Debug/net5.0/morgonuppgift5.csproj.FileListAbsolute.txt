@@ -1,0 +1,16 @@
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\bin\Debug\net5.0\morgonuppgift5.exe
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\bin\Debug\net5.0\morgonuppgift5.deps.json
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\bin\Debug\net5.0\morgonuppgift5.runtimeconfig.json
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\bin\Debug\net5.0\morgonuppgift5.runtimeconfig.dev.json
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\bin\Debug\net5.0\morgonuppgift5.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\bin\Debug\net5.0\ref\morgonuppgift5.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\bin\Debug\net5.0\morgonuppgift5.pdb
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\obj\Debug\net5.0\morgonuppgift5.csproj.AssemblyReference.cache
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\obj\Debug\net5.0\morgonuppgift5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\obj\Debug\net5.0\morgonuppgift5.AssemblyInfoInputs.cache
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\obj\Debug\net5.0\morgonuppgift5.AssemblyInfo.cs
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\obj\Debug\net5.0\morgonuppgift5.csproj.CoreCompileInputs.cache
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\obj\Debug\net5.0\morgonuppgift5.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\obj\Debug\net5.0\ref\morgonuppgift5.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\obj\Debug\net5.0\morgonuppgift5.pdb
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\C#uppgifter\morgonuppgift5\obj\Debug\net5.0\morgonuppgift5.genruntimeconfig.cache
