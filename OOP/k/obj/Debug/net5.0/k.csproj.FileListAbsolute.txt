@@ -1,0 +1,16 @@
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\bin\Debug\net5.0\k.exe
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\bin\Debug\net5.0\k.deps.json
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\bin\Debug\net5.0\k.runtimeconfig.json
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\bin\Debug\net5.0\k.runtimeconfig.dev.json
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\bin\Debug\net5.0\k.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\bin\Debug\net5.0\ref\k.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\bin\Debug\net5.0\k.pdb
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\obj\Debug\net5.0\k.csproj.AssemblyReference.cache
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\obj\Debug\net5.0\k.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\obj\Debug\net5.0\k.AssemblyInfoInputs.cache
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\obj\Debug\net5.0\k.AssemblyInfo.cs
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\obj\Debug\net5.0\k.csproj.CoreCompileInputs.cache
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\obj\Debug\net5.0\k.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\obj\Debug\net5.0\ref\k.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\obj\Debug\net5.0\k.pdb
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\oop\k\obj\Debug\net5.0\k.genruntimeconfig.cache

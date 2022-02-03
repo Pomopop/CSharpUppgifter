@@ -1,0 +1,16 @@
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\bin\Debug\net5.0\morgonuppgift6.exe
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\bin\Debug\net5.0\morgonuppgift6.deps.json
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\bin\Debug\net5.0\morgonuppgift6.runtimeconfig.json
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\bin\Debug\net5.0\morgonuppgift6.runtimeconfig.dev.json
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\bin\Debug\net5.0\morgonuppgift6.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\bin\Debug\net5.0\ref\morgonuppgift6.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\bin\Debug\net5.0\morgonuppgift6.pdb
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\obj\Debug\net5.0\morgonuppgift6.csproj.AssemblyReference.cache
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\obj\Debug\net5.0\morgonuppgift6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\obj\Debug\net5.0\morgonuppgift6.AssemblyInfoInputs.cache
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\obj\Debug\net5.0\morgonuppgift6.AssemblyInfo.cs
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\obj\Debug\net5.0\morgonuppgift6.csproj.CoreCompileInputs.cache
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\obj\Debug\net5.0\morgonuppgift6.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\obj\Debug\net5.0\ref\morgonuppgift6.dll
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\obj\Debug\net5.0\morgonuppgift6.pdb
+C:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\obj\Debug\net5.0\morgonuppgift6.genruntimeconfig.cache

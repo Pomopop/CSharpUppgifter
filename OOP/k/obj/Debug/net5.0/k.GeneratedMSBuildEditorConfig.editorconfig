@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = morgonuppgift6
-build_property.ProjectDir = c:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\morgonuppgift6\
+build_property.RootNamespace = k
+build_property.ProjectDir = c:\Users\lukas.ruokolahti\Documents\GitHub\CSharpUppgifter\OOP\k\

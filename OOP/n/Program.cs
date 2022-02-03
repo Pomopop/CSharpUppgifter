@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace morgonuppgift6
+namespace n
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("fjfjfjffj");
         }
     }
 }

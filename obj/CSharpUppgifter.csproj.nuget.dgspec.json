@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\c#uppgifter\\morgonuppgift5\\morgonuppgift5.csproj": {}
+    "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\CSharpUppgifter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\c#uppgifter\\morgonuppgift5\\morgonuppgift5.csproj": {
+    "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\CSharpUppgifter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\c#uppgifter\\morgonuppgift5\\morgonuppgift5.csproj",
-        "projectName": "morgonuppgift5",
-        "projectPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\c#uppgifter\\morgonuppgift5\\morgonuppgift5.csproj",
+        "projectUniqueName": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\CSharpUppgifter.csproj",
+        "projectName": "CSharpUppgifter",
+        "projectPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\CSharpUppgifter.csproj",
         "packagesPath": "C:\\Users\\lukas.ruokolahti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\c#uppgifter\\morgonuppgift5\\obj\\",
+        "outputPath": "C:\\Users\\lukas.ruokolahti\\Documents\\GitHub\\CSharpUppgifter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas.ruokolahti\\AppData\\Roaming\\NuGet\\NuGet.Config",
